@@ -3,10 +3,12 @@ This repo contains the executables and dependent libraries to run the model. Thi
 
 ## Contents
 
-[Problem](#problem)
-[Orignal Model](#original-model)
-[Modified Model](#modified-model)
 
+[Problem](#problem)
+
+[Original Model](#original-model)
+
+[Modified Model](#modified-model)
 
 
 ## Problem 
