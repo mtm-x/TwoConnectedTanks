@@ -1,8 +1,7 @@
 # TwoConnectedTanks 
-This repo contains the executables and dependent libraries to run the model. This model is downloaded from the given link for the screen task of openmodelica GUI
+This repository contains the executables and dependent libraries required to run the model. The model is downloaded from the provided link for the OpenModelica GUI screen task.
 
 ## Contents
-
 
 [Problem](#problem)
 
@@ -10,9 +9,8 @@ This repo contains the executables and dependent libraries to run the model. Thi
 
 [Modified Model](#modified-model)
 
-
 ## Problem 
-When i try to build the model given in the task it is complied sucessfully but got errors while running it so i had to change the code. Ive also attached the original(unmodifed) model with its necessary dlls and executables. Also attached my modified version to get error free output 
+When I attempted to build the model provided in the task, it compiled successfully but encountered errors during execution. Consequently, I had to modify the code. I have included both the original (unmodified) model with its necessary DLLs and executables, as well as my modified version that produces an error-free output.
 
 ## Original Model
 
