@@ -3,11 +3,13 @@ This repository contains the executables and dependent libraries required to run
 
 ## Contents
 
-[Problem](#problem)
+- [TwoConnectedTanks](#twoconnectedtanks)
+  - [Contents](#contents)
+  - [Problem](#problem)
+  - [Original Model](#original-model)
+  - [Modified Model](#modified-model)
+  - [Platform Support](#platform-support)
 
-[Original Model](#original-model)
-
-[Modified Model](#modified-model)
 
 ## Problem 
 When I attempted to build the model provided in the task, it compiled successfully but encountered errors during execution. Consequently, I had to modify the code. I have included both the original (unmodified) model with its necessary DLLs and executables, as well as my modified version that produces an error-free output.
@@ -25,3 +27,10 @@ When I attempted to build the model provided in the task, it compiled successful
 ![modified1](https://github.com/user-attachments/assets/98e83be1-6538-4586-acfc-4238c62b33a5)
 
 ![modifiedcmd](https://github.com/user-attachments/assets/8b28e286-ae5b-4614-9279-e23ca1b5cc5e)
+
+## Platform Support
+
+This repository supports the following platforms:
+- **Windows**: The executables and DLLs for Windows are located in the `TwoConnectedTanks_Win` directory.
+- **Linux**: The executables and dependent files for Linux are located in the `TwoConnectedTanks_Linux` directory.
+- **Model Files**: The model files used for creating the executables are located in `src` directory
