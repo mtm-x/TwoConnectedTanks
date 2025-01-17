@@ -12,7 +12,7 @@ This repository contains the executables and dependent libraries required to run
 
 
 ## Problem 
-When I attempted to build the model provided in the task, it compiled successfully but encountered errors during execution. Consequently, I had to modify the code. I have included both the original (unmodified) model with its necessary DLLs and executables, as well as my modified version that produces an error-free output.
+When I attempted to build the model provided in the task, it compiled successfully but encountered errors during execution Ive attached the screenshots of the probelm. Consequently, I had to modify the code.
 
 ## Original Model
 
