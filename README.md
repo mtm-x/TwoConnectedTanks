@@ -1,5 +1,6 @@
-# TwoConnectedTanks 
-This repository contains the executables and dependent libraries required to run the model. The model is downloaded from the provided link for the OpenModelica GUI screen task.
+# TwoConnectedTanks
+
+This repository is part of the OpenModelica GUI screening task. It contains the executables and dependent libraries required to run the model, which was downloaded from the provided link for the task.
 
 ## Contents
 
@@ -12,7 +13,7 @@ This repository contains the executables and dependent libraries required to run
 
 
 ## Problem 
-When I attempted to build the model provided in the task, it compiled successfully but encountered errors during execution Ive attached the screenshots of the probelm. Consequently, I had to modify the code.
+When I attempted to build the model provided in the task, it compiled successfully but encountered errors during execution Ive attached the screenshots of the probelm. Consequently, I had to modify the Model's code.
 
 ## Original Model
 
@@ -31,6 +32,6 @@ When I attempted to build the model provided in the task, it compiled successful
 ## Platform Support
 
 This repository supports the following platforms:
-- **Windows**: The executables and DLLs for Windows are located in the `TwoConnectedTanks_Win` directory.
-- **Linux**: The executables and dependent files for Linux are located in the `TwoConnectedTanks_Linux` directory.
-- **Model Files**: The model files used for creating the executables are located in `src` directory
+- **Windows**: Executables and DLLs for Windows are located in the `TwoConnectedTanks_Win` directory.
+- **Linux**: Executables and dependent files for Linux are located in the `TwoConnectedTanks_Linux` directory.
+- **Model Files**: Model files used for creating the executables are located in the `src` directory.
